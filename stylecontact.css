@@ -1,0 +1,47 @@
+body{
+font-family : Ballu bhai;
+}
+.all {
+width : 60%;
+height: 350px;
+position : absolute;
+top: 10%;
+left: 20%;
+box-sizing: border-box;
+border-radius: 8px;
+text-align: center;
+background-color : pink
+}
+
+.header {
+background-color: blue;
+height:50px;
+border-radius: 8px;
+}
+.header h1 {
+font-size:40px;
+text-align: center;
+margin:1px;
+
+}
+
+.details {
+left: 20%;
+right: 20%;
+width: 90%;
+border: 1px solid blue;
+margin: 8px ;
+padding : 2px;
+border-radius: 8px;
+height:35px;
+
+}
+.details label, input {
+margin: 2px;
+text-align: center;
+colour: black;
+font-size: 20px;
+display: inline;
+}
+
+
