@@ -1,0 +1,55 @@
+ .header {
+background-color:brown; 
+height:200px;
+}
+.logo {
+text-align: center;
+font-size:60px;
+font-family: "Avenir Next";
+}
+
+.list li {
+color:blue;
+float:left;
+list-style:none;
+padding: 50px 20px 20px 40px;
+font-size:30px;
+}
+.main {
+background-color:green;
+}
+.copy h1 {
+padding-top: 70px;
+text-align: center;
+}
+.copy h2 {
+text-align: center;}
+.copy h3{
+text-align: center;}
+
+.contents h4 {
+border: 1px solid black;
+width:300px;
+margin-bottom:5px;
+
+}
+.contents {
+margin-left:220px;
+border: 5px solid black;
+width: 350px;
+height:180px;
+margin-bottom:5px;
+}
+
+.content  div {
+border: 0.5px solid black;
+display: inline-block;
+width:150px;
+height:50px;
+font-size:20px;
+margin-bottom:5px;
+}
+.footer {
+text-align:center;
+}
+
